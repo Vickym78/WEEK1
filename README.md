@@ -1,4 +1,4 @@
-This about my weekly
+This about my weekly report
 
 
 IN MACHINE LEANING:- 
