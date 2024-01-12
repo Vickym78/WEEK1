@@ -1,5 +1,5 @@
-This about my report of WEEK 1 
-IN DSA(C++) Topics Covered are 
+This about my weekly
+
 
 IN MACHINE LEANING:- 
 Module 1 :- 
